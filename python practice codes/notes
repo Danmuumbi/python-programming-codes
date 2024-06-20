@@ -1,0 +1,8 @@
+"""
+to capitalize somethig use "the_variale.capitalize()
+to get rid of empty spaces i the right use the_variale.rstrip()
+convert to upper use the_variale.upper().to lower replace upper with lower
+turn a list into a string,,list begins wit the_variale=[]
+#the use .join(the_variable)
+covert string into a list use the_variable.split()
+"""
